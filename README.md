@@ -7,7 +7,9 @@ In the project directory, you can run:
 
 ### `npx create-react-app name-project`
 
-### clone this repository in your directory
+clone this repository in your directory
+
+### `git clone https://github.com/Jefferson-Bueno-Da-Silva/anotacoes-e-tasks`
 
 ### `npm start`
 
