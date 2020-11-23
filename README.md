@@ -5,7 +5,7 @@
 
 In the project directory, you can run:
 
-### npx create-react-app `name-project`
+### `npx create-react-app name-project`
 
 ### clone this repository in your directory
 
